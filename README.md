@@ -1,16 +1,15 @@
 # todo_list
 
-A new Flutter application.
+🚀 A Flutter project application that make use of the state manager GetX.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![possssssssssssssssssst](https://user-images.githubusercontent.com/74112689/99798373-33f4b880-2b31-11eb-97b3-e568439c26bd.jpg)
+
+
+
+## Overview
+This project was created with the purpose to apply some concepts implementeds by the state manager GetX. 
+
+
+
